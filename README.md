@@ -3,8 +3,9 @@
 1-Create local folder & project
 2-git init
 3-git remote add origin https://github.com/glaucodesouza/test4.git
-4-first commit
-5-
+4-git branch -M main
+5-first commit
+6-push branch
 
 
 
