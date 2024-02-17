@@ -3,7 +3,8 @@
 1-Create local folder & project
 2-git init
 3-git remote add origin https://github.com/glaucodesouza/test4.git
-4-
+4-first commit
+5-
 
 
 
